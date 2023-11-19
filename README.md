@@ -1,4 +1,4 @@
-# TPO-AyED-III
+# Diseño y Análisis de Algoritmos (Programación III)
 
 ## Algoritmos Seleccionados
 
